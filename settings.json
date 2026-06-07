@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BOYSBATTLEGIRLS.aternos.me",
-    "port": 16482,
+    "ip":"boysbattlegirls.aternos.me",
+    "port": 42671,
     "version": "1.21.130",
     "try-creative": false
   },
